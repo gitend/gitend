@@ -18,25 +18,16 @@
       "path": "../../../vendor/include"
     },
     {
-      "path": "../../../vendor/schemastery"
+      "path": "../app-boot"
     },
     {
-      "path": "../../boot/app-boot"
-    },
-    {
-      "path": "../../boot/plugin-manager"
-    },
-    {
-      "path": "../../preset/agent-presets"
-    },
-    {
-      "path": "../../typert/protocol"
-    },
-    {
-      "path": "../../core/agent"
+      "path": "../../util/patch-file"
     },
     {
       "path": "../../util/values"
+    },
+    {
+      "path": "../../util/package-manifest"
     }
   ]
 }
