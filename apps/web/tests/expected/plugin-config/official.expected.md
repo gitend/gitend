@@ -31,6 +31,5 @@
 - text: "1"
 - list:
   - listitem:
-    - button "查看 bundle": bundle
-    - text: "Web e2e fixture: a bundle whose one row is an inert plugin."
-    - switch "启用 bundle" [checked]
+    - button "查看 live-client": live-client
+    - switch "启用 live-client"
